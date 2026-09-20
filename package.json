@@ -1,0 +1,16 @@
+{
+  "name": "sixty-guide",
+  "version": "1.0.0",
+  "description": "55〜70歳向けの、年金・定年・再雇用・退職手続きを年齢別に整理する実用サイト。",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "playwright": "^1.63.0"
+  }
+}

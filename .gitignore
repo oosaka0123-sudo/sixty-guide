@@ -1,0 +1,9 @@
+node_modules/
+*.report.html
+lh-*.json
+*-review.txt
+*-independent.txt
+*-final.txt
+review-input.txt
+*.png
+.DS_Store
